@@ -1,1 +1,2 @@
 init
+npm i -D @types/morgan
